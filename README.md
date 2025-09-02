@@ -1,4 +1,4 @@
-# Análise Preditiva para o Sucesso Cinematográfico
+# Análise Preditiva para os Estúdios PProductions
 ---
 Este projeto aplica técnicas de ciência de dados e machine learning para analisar os fatores que determinam o sucesso de filmes, auxiliando a empresa fictícia PProductions na seleção de projetos com maior potencial de retorno financeiro e crítico.
 
